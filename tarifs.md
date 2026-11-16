@@ -1,6 +1,6 @@
 # Tarifs de l'atelier réparation
 
-Adhésion à la journée : 4 €
+Adhésion à la journée : 5 €
 
 ## Pièces vendues sur place
 
